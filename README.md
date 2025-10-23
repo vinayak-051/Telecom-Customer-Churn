@@ -46,7 +46,7 @@ This project is designed for rapid deployment on Streamlit Community Cloud and r
 
 ## Live Demo
 
-- [Live App](https://predictpulse-churninsights.streamlit.app/)
+- [Live App]
 
 ---
 
