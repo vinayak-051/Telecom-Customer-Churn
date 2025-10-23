@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 
 # --------------------------
 # Configuration
-# --------------------------
+# ---------------------------
 st.set_page_config(
     page_title="Churn Prediction Dashboard",
     page_icon="📉",
