@@ -54,12 +54,19 @@ This project is designed for rapid deployment on Streamlit Community Cloud and r
 
 ```
 .
-├── app.py                  # Streamlit application
-├── baseline_model.pkl      # Trained scikit-learn Pipeline (preprocessor + classifier)
-├── requirements.txt        # Python dependencies (pinned for reproducibility)
-├── runtime.txt             # Pin Python version on Streamlit Cloud (e.g., python-3.11.9)
-├── README.md               # This file
-└── .gitignore
+|
+│   ├── Raw Data.csv
+│   ├── cleaned_data.csv
+│   └── dataset_feature_engineering.csv
+|
+│   ├── EDA & FE.ipynb
+│   └── model_development.ipynb
+├── app.py
+├── baseline_model.pkl
+├── requirements.txt
+├── runtime.txt
+├── README.md
+└── sample_data.csv
 ```
 ---
 
